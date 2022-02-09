@@ -1,6 +1,6 @@
-# xpotato-service-sdk
+# xpotato-service-template
 
-SDK for making open-source services support for xPotato.
+Basic template to making open-source services support for xPotato.
 
 # 🙋🏻‍♂️ Support
 
